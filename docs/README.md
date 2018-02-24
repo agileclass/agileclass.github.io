@@ -1,3 +1,0 @@
-# agileclass.io
-
-Testes...
